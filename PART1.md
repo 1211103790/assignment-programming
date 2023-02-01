@@ -28,10 +28,9 @@ List all the features not yet done. Remove this section if there is no incomplet
 5. Game controls
 6. Game commands
 7. Zombie counts
-8. Board's dimension
-9. Alien kills zombie and win
-10. Save game
-11. Quit game 
+8. Alien kills zombie and win
+9. Save game
+10. Quit game 
 
 ## Additional Features
 
